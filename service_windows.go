@@ -3,7 +3,7 @@ package svc
 import (
 	"time"
 
-	"github.com/mosteknoloji/glog"
+	"github.com/birlesikodeme/glog"
 
 	"golang.org/x/sys/windows/svc"
 )
